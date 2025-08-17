@@ -96,7 +96,6 @@ A RESTful API for an AI-powered chat system built with Django and Django REST fr
 - `GET /user/profile/` - Get user profile
   - Headers: `Authorization: Bearer YOUR_ACCESS_TOKEN`
   - Response: User data
-documentation url---> https://www.postman.com/tools6-2392/workspace/ai-task/documentation/40425168-e9f631bb-dd04-49cf-87cc-0c5c6c20be83
 
 Access the admin interface at `http://localhost:8000/admin/` using your superuser credentials to:
 - View and manage users
@@ -104,3 +103,4 @@ Access the admin interface at `http://localhost:8000/admin/` using your superuse
 - Adjust user token balances
 - Manage user permissions
 
+documentation url---> https://www.postman.com/tools6-2392/workspace/ai-task/documentation/40425168-e9f631bb-dd04-49cf-87cc-0c5c6c20be83
